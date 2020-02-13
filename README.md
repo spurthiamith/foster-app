@@ -1,9 +1,9 @@
 ![alt text](http://internbuddy.in/images/logo2.png)
 ## InternBuddy 
-This is a platform for enabling career breakthrough !This platform is driven by Mavoix Solutions Pvt. Ltd. 
+This is a platform for enabling career breakthrough. This platform is driven by Mavoix Solutions Pvt. Ltd. 
 
 ## How It Works
-InternBuddy teams conduct free bootcamp for interns to help them to strengthen their skills in latest technology. Candidates who successfully qualify with InternBuddy criteria will get an opportunity to persue Internship in Mavoix Solutions Pvt. Ltd. 
+InternBuddy team conduct free bootcamp for interns to help them to strengthen their skills in latest technology. Candidates who successfully qualify with InternBuddy criteria, gets opportunity to persue Internship in Mavoix Solutions Pvt. Ltd. 
 
 ## Career Path
 InternBuddy offers three technology verticals.
