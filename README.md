@@ -1,25 +1,25 @@
 ![alt text](http://internbuddy.in/images/logo2.png)
 ## InternBuddy 
-This is a platform for enabling career breakthrough !
+This is a platform for enabling career breakthrough !This platform is driven by Mavoix Solutions Pvt. Ltd. 
 
 ## How It Works
-We conduct free bootcamp for interns to help them to strengthen their skills in latest technology. We offer Internship to the selected candidates our our products/projects. 
+InternBuddy teams conduct free bootcamp for interns to help them to strengthen their skills in latest technology. Candidates who successfully qualify with InternBuddy criteria will get an opportunity to persue Internship in Mavoix Solutions Pvt. Ltd. 
 
 ## Career Path
-There are three verticals we offers Internship(s).
+InternBuddy offers three technology verticals.
 
-### Web Developer
+### Web Development
 To submit any assignment on Web Development do use below repository.
 ```
 https://github.com/internbuddy/virtual-university.git
 ```
-### FullStack (MERN) Developer
+### FullStack (MERN) Development
 To submit any assignment on FullStack (MERN) Development do use below repository.
 ```
 https://github.com/internbuddy/foster-web.git
 ```
-### Data Science
-To submit any assignment on AI/ML/DL Get the sample  data from below repository.
+### Data Scientist
+To submit any assignment on AI/ML/DL get the sample  data from below repository.
 ```
 https://github.com/internbuddy/foster-app.git
 ```
