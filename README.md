@@ -8,17 +8,17 @@ InternBuddy teams conduct free bootcamp for interns to help them to strengthen t
 ## Career Path
 InternBuddy offers three technology verticals.
 
-### Web Development
+## Web Development
 To submit any assignment on Web Development do use below repository.
 ```
 https://github.com/internbuddy/virtual-university.git
 ```
-### FullStack (MERN) Development
+## FullStack (MERN) Development
 To submit any assignment on FullStack (MERN) Development do use below repository.
 ```
 https://github.com/internbuddy/foster-web.git
 ```
-### Data Scientist
+## Data Scientist
 To submit any assignment on AI/ML/DL get the sample  data from below repository.
 ```
 https://github.com/internbuddy/foster-app.git
