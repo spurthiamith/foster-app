@@ -1,5 +1,5 @@
-![alt text](http://internbuddy.in/images/logo2.png)
 ## InternBuddy 
+![alt text](http://internbuddy.in/images/logo2.png)
 This is a platform for enabling career breakthrough !
 
 ### How It Works
