@@ -1,6 +1,6 @@
 ![alt text](http://internbuddy.in/images/logo2.png)
 ## InternBuddy 
-This is a platform for enabling career breakthrough. This platform is driven by Mavoix Solutions Pvt. Ltd. 
+This is a platform for enabling career breakthrough.  
 
 ## How It Works
 InternBuddy team conduct free bootcamp for interns to help them to strengthen their skills in latest technology. Candidates who successfully qualify with InternBuddy criteria, gets opportunity to persue Internship in Mavoix Solutions Pvt. Ltd. 
@@ -14,9 +14,9 @@ To submit any assignment on Web Development do use below repository.
 https://github.com/internbuddy/virtual-university.git
 ```
 ## FullStack (MERN) Development
-To submit any assignment on FullStack (MERN) Development do use below repository.
+All assignments on FullStack (MERN) Development are in below repository.
 ```
-https://github.com/internbuddy/foster-web.git
+https://github.com/internbuddy/foster-app.git
 ```
 ## Data Scientist
 To submit any assignment on AI/ML/DL get the sample  data from below repository.
